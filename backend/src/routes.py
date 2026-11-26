@@ -1,0 +1,1 @@
+# Handles frontend-backend communication and routing for the backend service.
