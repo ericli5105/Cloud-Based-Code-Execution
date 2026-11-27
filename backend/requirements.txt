@@ -1,0 +1,8 @@
+Flask
+Flask-Cors
+# Use standard CPython 3.12 on Linux or Windows (not MSYS/MinGW Python).
+# Windows named-pipe transport requires pywin32, installed by the Docker SDK.
+# The interpreter must support its Windows wheels; keep dependency checks enabled.
+docker>=7.1,<8
+requests
+Werkzeug
